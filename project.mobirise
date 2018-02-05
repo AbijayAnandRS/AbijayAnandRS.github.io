@@ -147,7 +147,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/AbijayAnandRS\">Github</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.hackerrank.com/abijayanand123?h_r=internal-search&amp;hr_r=1\">Hackerank</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.linkedin.com/in/abijay-anand-159511117/\">Linkedin</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-a\">cv</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT ME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">Education &amp; Achievments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-d\">The Apps I made</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-e\">Extra Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-o\">Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://github.com/AbijayAnandRS\" target=\"_blank\">Github</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.hackerrank.com/abijayanand123?h_r=internal-search&amp;hr_r=1\" target=\"_blank\">Hackerank</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.linkedin.com/in/abijay-anand-159511117/\" target=\"_blank\">Linkedin</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"file:///C:/Users/user/Desktop/DMRL/Abijay/project/sa/index/cv_me.html\" target=\"_blank\">cv</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tel:8281810667\" aria-expanded=\"false\">ABOUT ME</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-4\">Education &amp; Achievments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-d\">The Apps I made</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#testimonials2-e\">Extra Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-o\">Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -197,7 +197,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -242,9 +242,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/iit-bhubaneswar-summer-internship-354x354.png",
-              "link": "",
+              "link": "http://www.iitbbs.ac.in/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -400,9 +401,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/YummyYum",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -411,9 +413,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/Trobel2",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -422,9 +425,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/Omusic",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -433,9 +437,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/AlmaReg",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -518,9 +523,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/Alma2k16",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -529,9 +535,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/HUTkrla",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -540,9 +547,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/sonic_game",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -551,9 +559,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://github.com/AbijayAnandRS/SimpleChat",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
