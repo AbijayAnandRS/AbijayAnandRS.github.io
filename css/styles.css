@@ -64,7 +64,7 @@ html { -webkit-overflow-scrolling: touch; overflow-x: hidden; }
 body.full-height { height:100%;  }
 #wrap { z-index:1001; position:relative; background:#ffffff; min-height:100vh; }
 html { overflow: -moz-scrollbars-vertical; overflow-y: scroll;  }
-body { font-size: 15px;  font-family: Roboto,Arial,Helvetica,sans-serif; color:#888; background:#1D1D1D; -webkit-text-size-adjust: 100%; -moz-osx-font-smoothing:grayscale; -webkit-font-smoothing: antialiased;}
+body { font-size: 15px;  font-family: Roboto,Arial,Helvetica,sans-serif; color:#888; background:#ffffff; -webkit-text-size-adjust: 100%; -moz-osx-font-smoothing:grayscale; -webkit-font-smoothing: antialiased;}
 
 strong { font-weight:600; }
 p strong { color:#555; }
@@ -155,7 +155,7 @@ span.heading { font-family:"Montserrat", Arial, Helvetica, sans-serif; font-styl
 #nav-button { display:inline-block; width:46px; height:46px; margin:0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); padding-top:18px; text-align:center; }
 .nav-bar { background-color:#2b2b2b; border-radius:1px; display:block; width:16px; height:2px; margin:0px auto 2px; position:relative; }
 
-#main-nav { background-color: #1d1d1d; top: 0; right: 0; padding: 31px 34px 20px; width: 200px; position:absolute; }
+#main-nav { background-color: #ffffff; top: 0; right: 0; padding: 31px 34px 40px; width: 200px; position:absolute; }
 #main-nav ul { position:relative; line-height:1.4}
 #main-nav ul li a {  position:relative; color:rgba(255,255,255,0.6); padding:9px 0; display:block; border-bottom:1px solid rgba(255,255,255,0.1); font-size:12px !important; text-transform:uppercase; font-weight:400; letter-spacing:1px; font-family:"Montserrat", Arial, Helvetica, sans-serif; }
 #main-nav ul li a:hover, #main-nav ul li a.selected { color:rgba(255,255,255,1); }
@@ -265,7 +265,7 @@ nav .social-list li a:hover i, #footer .social-list li a:hover i { color:rgba(25
 
 .social-list.alignright li { padding:0 0 0 10px }
 
-i.fa { margin-right:3px; color:#2b2b2b }
+i.fa { margin-right:3px; color:#2b2b2b ; font-size:20px }
 p i.fa { color:#888; }
 .button i.fa { color:#2b2b2b; font-size:11px !important; }
 .info-box-content i.fa, .bottom i.fa { color:#fff; opacity:1 }
