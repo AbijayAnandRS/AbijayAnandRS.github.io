@@ -202,7 +202,7 @@ section.white { background:#fff; }
 .col2-3 { width:620px; height:580px; margin:10px; float:left; position:relative }
 .col1-3.auto, .col2-3.auto { height:auto !important; }
 .col1-3.double {height:580px; }
-.col2-3.half {height:280px; }
+.col2-3.half {height:350px; }
 .col1-3.with-padding { padding:17px 35px; }
 .col2-3.with-padding, .col3-3.with-padding, .col4-3.with-padding { padding:55px 80px; }
 .element .col1-3, .element .col2-3, .element .col3-3 { margin:0 }
@@ -451,7 +451,7 @@ p.time { font-size:13px; font-style:italic; color:#888; }
 .comment-form-icon-wrapper { position: relative; display: block; height: 66px; width: 66px; border:0 none; border:1px solid #d8d8d8; cursor:pointer; border-radius:51%; float:left; margin-right:30px; background:url(../images/icons/bg-upload@2x.png) center no-repeat; background-size:24px 24px; }
 .comment-form { text-align:left; padding-left:95px; width:100%; }
 .comment-form > input, .comment-form > textarea { padding: 12px 15px 14px; margin-bottom: 10px; border:1px solid #d8d8d8; text-align: left; border-radius:3px; line-height: 20px; width:calc(100% - 1px) }
-input:focus, textarea:focus { background:#f5f5f5; }
+input:focus, textarea:focus { background:#f5f5f5; color: black}
 .comment-form.contact-form input { float:left; margin-right:10px; }
 input.last { margin-right:0 !important }
 .comment-form > textarea { width: calc(100% - 1px); height: 174px; }
@@ -513,6 +513,32 @@ article ul.unordered-list, article .hentry ul, article ol { padding-bottom:15px;
  .cofee-img{
      background: url("../images/cofee.png") center no-repeat; background-size:100px 100px;
      position:relative; height:100px; width:100px; display:inline-block;
+ }
+
+ .discuss-img {
+     background: url("../images/discussion.png") center no-repeat; background-size:164px 100px;
+     position:relative; height:100px; width:164px; display:inline-block;
+ }
+
+ .back-button {
+     background: url("../images/ic_back.png") center no-repeat; background-size:50px 50px;
+     position:relative; height:50px; width:50px; display:inline-block;
+ }
+
+ .peace-loader {
+     background: url("../images/peace_two.gif") center no-repeat; background-size:50px 50px;
+     position:relative; height:50px; width:50px; display:inline-block;
+     z-index: 5;
+ }
+
+ .img-container {
+     display: none;
+     position: fixed; /* or absolute */
+     top: 50%;
+     text-align: center;
+     left: 50%;
+     opacity: 0.9;
+     z-index:10;
  }
 /* End Blog
 --------------------------------------------------------------------------------------------------------*/
