@@ -1,3 +1,7 @@
+if (location.protocol !== 'https:') {
+    location.replace(`https:${location.href.substring(location.protocol.length)}`);
+}
+
 function colorEvent(element) {
     if (element.focused || element.value !== '') {
         element.style.color = "black";
