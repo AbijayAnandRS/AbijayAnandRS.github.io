@@ -65,7 +65,7 @@ function send() {
         }
     });
 
-    xhr.open("POST", "http://ec2-13-233-37-79.ap-south-1.compute.amazonaws.com:8082/admin/coffee?subject=" + name + "&body=Hi<br />" + comments + "<br /><br />Thanks<br />" + email);
+    xhr.open("POST", "https://elb-1082389933.ap-south-1.elb.amazonaws.com:443/admin/coffee?subject=" + name + "&body=Hi<br />" + comments + "<br /><br />Thanks<br />" + email);
     xhr.send(data);
 }
 
