@@ -69,7 +69,7 @@ function send() {
         }
     });
 
-    xhr.open("POST", "https://elb.abijayanand.com:443/admin/coffee?subject=" + name + "&body=Hi<br />" + comments + "<br /><br />Thanks<br />" + email);
+    xhr.open("POST", "http://ec2-3-12-152-233.us-east-2.compute.amazonaws.com:8080/mail?subject=" + name + "&body=Hi<br />" + comments + "<br /><br />Thanks<br />" + email);
     xhr.send(data);
 }
 
